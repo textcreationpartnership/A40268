@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the birth, temporal and spiritual and the duty and state of a child, youth, young-men, aged-men, and fathers in the truth : also, shewing that children are the heritage of the Lord, and that he hath glory in them / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40268</idno><idno type="EEBO-CITATION">15353036</idno>
+  <idno type="VID">103475</idno>
+  <idno type="EEBO-PROQUEST">2248502394</idno>
+  
+            <idno type="STC">Wing F1921</idno>
+            <idno type="STC">ESTC R35520</idno>
+            <idno type="OCLC">15353036</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the birth, temporal and spiritual and the duty and state of a child, youth, young-men, aged-men, and fathers in the truth : also, shewing that children are the heritage of the Lord, and that he hath glory in them / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Children --  Biblical teaching.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103475:1"/>
+            <pb facs="tcp:103475:1"/>
+            <p>The STATE of the BIRTH TEMPORAL and SPIRITUAL, AND THE DUTY and STATE OF A Child, Youth, Young-Men, Aged-Men and Fathers in the Truth.</p>
+            <p>Also, shewing That Children are the Heritage of the Lord, and that he hath a Glory in them.</p>
+            <p>
+               <hi>By</hi> GEORGE FOX.</p>
+            <q>
+               <p>Children are the Heritage of the Lord, and he hath a Glory in them, and they are to be trained up in the Fear of the Lord.</p>
+            </q>
+            <q>
+               <p>That your Children may be blessed after you,</p>
+               <bibl>
+                  <hi>Prov. 20.7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And may be blessed with thee, <hi>Psal. 147.13.</hi> for blessed is every one that feareth the Lord,</p>
+               <bibl>
+                  <hi>Psal. 128.1.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year of the Lord 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:103475:2"/>
+            <head>The State of the BIRTH Temporal and Spiritual, <hi>&amp;c.</hi>
+            </head>
+            <p>THe State and Duty of a Child, Youth and Young-men, and the State of Aged-men and Fathers, it is the Lord that doth bring to the Birth. <hi>David</hi> saith, <hi>My Substance was not hid from thee when I was made in secret,</hi> &amp;c. <hi>Thine Eyes did see my Substance, yet being imperfect, and in thy Book all my members were written, which in continuance were fashioned, when as yet there were none of them; for thou possessedst my reins when thou cover<g ref="char:EOLhyphen"/>edst me in my Mothers Womb.</hi> Here you may see Gods infinite and All-seeing Eye, Work and Providence; the Darkness nor Secrets hide not from God, but the Night shineth to him as the Day, and the Darkness and the Light are alike to his All-seeing Eye, who made both; and therefore all are to consider how God hath made them, and fashioned them, <hi>Psal.</hi> 139.</p>
+            <p>And the Lord saith in <hi>Isai.</hi> 66. <hi>Shall I bring to the Birth, and not cause to bring forth saith the Lord? Shall I cause to bring forth and shut the Womb, saith my God?</hi> So here you may see, it is the Lord that fashions in the Womb, and brings it forth, both the Natural birth and the Spiritual birth, and opens the Womb and shuts the Womb, both the womb of the Morning and of Eternity, and of the Natural.</p>
+            <p>And the Lord said to <hi>Jeremiah,</hi> in chap. 1. <hi>Before I formed thee in the belly, I knew thee, and before thou camest out of the womb, I sancti<g ref="char:EOLhyphen"/>fied thee, &amp;c.</hi> And so, here all may see, and consider, and know them<g ref="char:EOLhyphen"/>selves to be the great Work of God, that when God that forms and fashions you in the Womb, and brings to a Birth, and hath brought you forth, that you may chuse the Good and and forsake the Evil, that you may remember and consider that you are the Work of the Lord, and remember your Creator, and who hath fashioned you and formed you in the Womb, and hath brought you to a birth, and hath brought you forth to fear, and serve, and worship, and honour him that hath made thee, and brought thee forth; for as <hi>Solomon</hi> saith in <hi>Eccles.</hi> 12.
+<pb n="3" facs="tcp:103475:2"/>
+               <hi>Remember now thy Creator in the days of thy youth, whilst the evil days come not, or before the evil days do come.</hi> Now this is the Duty of all Youth, Males or Females, to remember their Creator, and let him not go out of their memory, so that they may be fitted to stand in the evil days when they come; for when they grow up to be young-men, then the evil days will appear, in which they may be tempted to <hi>Adultery, Fornication, Drunkenness, Theft, Murder, Lying, Cousening, Cheating, Unrighteousness, Ungodliness, Lightness, Wantonness, Plea<g ref="char:EOLhyphen"/>sures,</hi> and other evils, by which they may forget their Creator by going into such evils, when they are tempted to such things; tho evil days are come to try Youth; for they that yield unto such evils before-mentioned forget their Creator, and forsake him; for <hi>Solomon</hi> saith, <hi>Train up a Child in the way he should go; and when he is old he will not depart from it, Prov.</hi> 22.6. Here is the Duty of Parents, and the Duty of Children, which is to be practised and followed. Now here is the Duty of Youth; <hi>To remember his Creator in the days of his youth, before the evil days come; But what must we do when we come to be yong men? What is their means and duty? David</hi> declareth in <hi>Psal.</hi> 119.9. <hi>Wherewith shall a young man cleanse his ways? By taking heed to thy Word,</hi> &amp;c. <hi>Thy Word I have hid in my Heart, and do meditate on thy Word, that I might not sin against thee.</hi> So now, for all <hi>Young men</hi> to take heed to the Word of God in their hearts, and hide it in their hearts, and to meditate upon it; for the Word is called a <hi>Hammer,</hi> and a <hi>Sword,</hi> and a <hi>Fire,</hi> to hammer down, and cut down, and burn up that which would defile them in their <hi>Ways, Words</hi> and <hi>Hearts.</hi>
+            </p>
+            <p>And the Apostle saith, <hi>That the Word of Faith which he preacht was in their hearts and mouths to obey it, and to do it,</hi> Rom. 10. <hi>And the engrafted Word was able to save their Souls, James</hi> saith. And <hi>Peter</hi> saith, <hi>That they were to feed upon the sincere Milk of the Word; but they which are hearers of the Word, and not doers of the Word, de<g ref="char:EOLhyphen"/>ceive their own souls.</hi> And Christ said to his Disciples, <hi>Now ye are clean through the Word,</hi> &amp;c. So this Word will keep the Ways and the Hearts of Young men clean; the <hi>Word of God,</hi> which is a <hi>sancti<g ref="char:EOLhyphen"/>fying Word,</hi> a <hi>reconciling Word;</hi> and Christ told the <hi>Jews,</hi> His Word had no place in them.</p>
+            <pb n="4" facs="tcp:103475:3"/>
+            <p>And again, he told the unclean <hi>Jews, Ye have not his Word</hi> (to wit, the Word of God) <hi>abiding in you.</hi> So these <hi>Jews</hi> made a great Pro<g ref="char:EOLhyphen"/>fession of the Scriptures, but had not the Word of God abiding in them, <hi>Joh.</hi> 5. then they were not like to be made clean by it.</p>
+            <p>And Christ said, <hi>Sanctifie them through thy Word; thy Word is Truth,</hi> (to wit, his Disciples and Believers.) And again, Christ saith, <hi>I have given them thy Word, and they have kept thy Word,</hi> (namely, his Disci<g ref="char:EOLhyphen"/>ples) to wit, the Word of God, <hi>Joh.</hi> 17.</p>
+            <p>Now here you may see the Disciples kept the Word of God, which was the means to keep their Hearts, Ways and Words clean; but the <hi>Jews, Priests, Scribes</hi> and <hi>Pharisees,</hi> that made a great out<g ref="char:EOLhyphen"/>ward Profession of the Scriptures, whose ways were unclean, and mouths full of foul unclean words against Christ; Christ told them, <hi>That the Word of God did not abide in them:</hi> And therefore though they had the Scriptures, and made an outward Profession of them, like the Professors of our Age, and others, who go from the means, the Word of God in their hearts, to keep their Ways and Lips clean, and to sanctifie them. Therefore they plead for a <hi>Body of Death</hi> to the Grave, and a Purgatory when they are dead, who live in a Pro<g ref="char:EOLhyphen"/>fession of the Letter without the Word.</p>
+            <p>And <hi>John</hi> saith, <hi>I have written unto you young men, because you are strong, and the Word of God abideth in you; and you have over<g ref="char:EOLhyphen"/>come the wicked one,</hi> viz. the Devil, by the Word of God, which was b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the Devil, was. So here you may see what is the means by which the <hi>Young mens</hi> ways are cleansed and sanctified, and what makes them strong, and to overcome the wicked one, the Word of God abiding in them; and therefore every Young man and all Young people are to love and obey, and do the Word of God, by which their Ways, Words and Hearts and all may be kept clean; for the Word of God is a <hi>Hammer</hi> and a <hi>Sword,</hi> to hammer down and cut down the Devil and his works, and a <hi>Fire</hi> to burn them up: So it is the Word of Power, the Word of Wis<g ref="char:EOLhyphen"/>dom, the Word of Reconciliation, and the Word of Patience by which they overcome.</p>
+            <p>Now concerning Aged men, or Fathers in the Truth, <hi>John</hi> saith, <hi>I have written unto you Fathers, because you have known him
+<pb n="5" facs="tcp:103475:3"/> that is from the beginning,</hi> to wit, Christ Jesus: And <hi>John</hi> writes as a Father himself, who saith; <hi>That which was from the beginning, which we have heard, which we have seen with our Eyes, which we have look'd upon, and our hands have handled of the Word of Life; for the Life was manifested, and we have seen it, and bear witness, and shew unto you, that eternal Life, which was with the Father, and was manifested unto us</hi> 1 Joh. 1.1.2.</p>
+            <p>So, here you may see not <hi>John</hi> in his <hi>Epistle,</hi> but also <hi>John</hi> in his <hi>Evangelist</hi> declares Christ in the beginning, and saith; <hi>In the begin<g ref="char:EOLhyphen"/>ning was the Word, and the Word was with God, and God was the Word; the same was in the beginning with God, and all things were made by him, and without him was not any thing made that was made; and the Word was made flesh, and dwelt among us, and we beheld his Glory; the Glory as of the only begotten of the Father, full of Grace and Truth,</hi> Joh. 1.</p>
+            <p>Now here you may see how <hi>John</hi> writes as a Father, that knew Christ in the beginning; and he writes to the Fathers that knew Christ in the beginning. So the Fathers knew him in the Glory that he had with the Father before the World began; and that all things were made by <hi>Jesus Christ:</hi> So they knew him as he was <hi>God,</hi> the <hi>Word;</hi> they knew Christ as he was a Man. <hi>The Word was made Flesh, &amp;c.</hi> they knew Christ in the Promises and in the Prophesies; they knew him in the Figures, Types and Shadows made under the Law; they knew him, and of whom he was to be conceived, to wit, the Virgin; they knew him in his <hi>Birth, Life, Doctrine, Preaching, Miracles, Sufferings, Death, Grave, Resurrection</hi> and <hi>Ascension into the Glory</hi> with the Father and at his right hand; yea, <hi>the Glory which he had with the Father before the World began.</hi> So the <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> have known <hi>[Mark]</hi> have known Christ from the <hi>beginning,</hi> 1 John 2.14.</p>
+            <p>So here you may see the State of the <hi>Birth Temporal</hi> and <hi>Spiri<g ref="char:EOLhyphen"/>tual,</hi> and the Duty and State of <hi>youth,</hi> the Duty and State of <hi>Young men</hi> and <hi>Young poople,</hi> and the State of <hi>Fathers in the Truth.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Kingston</hi>
+                  <date>the tenth Month, 1682.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="6" facs="tcp:103475:4"/>
+            <p>DAvid saith, <hi>Lo Children are an Heritage of the Lord, and the Fruit of the Womb is his Reward; as Arrows are in the hands of a mighty man, so are Children of youth: Happy is the man that hath his Quiver full of them, they shall not be ashamed, but they shall speak with the Enemy in the Gate,</hi> Psal. 127.</p>
+            <p>
+               <hi>Blessed is every one that feareth the Lord, that walketh in his ways; for thou shalt eat the Labour of thine hands: Happy shalt thou be, and it shall be well with thee, and thy Wise shall be as a fruitful Vine by the side of thine house; thy Children like Olive plants round about thy Table: Behold, that thus shall the man be blessed that feareth the Lord; yea, thou shalt see thy Childrens Children, and the Lord shall bless thee out of Sion,</hi> Psal. 128.</p>
+            <p>Now all you that do murmur against people that have many Chil<g ref="char:EOLhyphen"/>dren, and do complain and say, <hi>That they do fill your Towns, Cities and Countries with Children;</hi> and many times you that do so complain have few or no Children; and you are afraid that they should come to want, and that then you must be fain to relieve their necessities: And what then? What you do give to the poor you lend to the Lord, and he will repay it to you again, if they cannot; and this wanting mind is for want of Faith, and of God, who gives the increase of all, and is rich unto all that call upon him; and the Lord would have you to take notice, that Children are the Heritage of the Lord. And so, what you do give to the breeding, and nursing, and relieving of Chil<g ref="char:EOLhyphen"/>dren, you do it to the <hi>Heritage of the Lord,</hi> and the Lord hath many adopted Sons, that he hath taken to be his, <hi>that have received the A<g ref="char:EOLhyphen"/>doption of Sons,</hi> Gal. 4. And what if you that have no Children should do so? It was but a Cross to the grumbling or murmuring self, which many times have no Children and are discontent with the poor that have many; and do think much either to adopt them to your selves, and are afraid that they will be chargeable to you, namely, the Chil<g ref="char:EOLhyphen"/>dren that are the Heritage of the Lord; but the Lord that doth in<g ref="char:EOLhyphen"/>crease the Children which are his Heritage, he will take care for his He<g ref="char:EOLhyphen"/>ritage, whether that murmuring complaining mind against poor peo<g ref="char:EOLhyphen"/>ple of having so many Children, you relieving them or no, he will take care for his Heritage, blessed be his Name for ever. <hi>Amen.</hi>
+            </p>
+            <pb n="7" facs="tcp:103475:4"/>
+            <p>
+               <hi>Sing unto God, sing Praises to his Name, exalt him that rideth upon the Heavens by his Name</hi> JAH; <hi>and rejoice before him, a Father of the Fatherless and a Judge of the Widow; God is in his holy habitation,</hi> Psal, 68. <hi>The Sayings of old, which we have heard and known, and our Fathers have told us, we will not hide them from their Children, shewing to the Generations to come the Praise of the Lord,</hi> Psal. 78. And <hi>David</hi> saith, <hi>Let thy Work appear unto thy Servants, and thy Glory unto their Children, and let the Beauty of the Lord be upon us,</hi> &amp;c. Psal. 90.16.</p>
+            <p>See what heavenly Love he had to Children, <hi>Gods Heritage;</hi> so they are not of <hi>Davids</hi> mind, who think that they shall be undone by maintaining of poor peoples Children, which Children are Gods He<g ref="char:EOLhyphen"/>ritage; and <hi>David</hi> saith, <hi>Ye are blessed of the Lord, which made Hea<g ref="char:EOLhyphen"/>ven and Earth; the Heavens, even the Heavens are the Lords; but the Earth he hath given to the Children of Men,</hi> Psal. 115.16. And the Lord saith to <hi>David, If thy Children will keep my Covenant and my Testimony, that I shall teach them; their Children also shall sit upon thy Throne for evermore,</hi> Psal. 132.12. <hi>Praise the Lord,</hi> O Jerusalem, <hi>praise thy God,</hi> O Sion; <hi>for he hath strengthened the Bars of thy Gates; he hath blessed thy Children with thee.</hi> These are they that keep in the Covenant, and the Testimony that God doth give them that have his Blessings.</p>
+            <p>And you may see the Tenderness of <hi>Joseph</hi> to his Father, and to his Children, and to his Childrens Children in the days of the Famine, when they were in <hi>Egypt, Gen.</hi> 45. Here he was tender of Children, which are the Heritage of the Lord; and the Lord said, <hi>Thrice in the year shall all your men children appear before the Lord God of</hi> Israel, <hi>Exod.</hi> 34.23. Here you may see the care the Lord takes, that Chil<g ref="char:EOLhyphen"/>dren, which are his Heritage, should be acquainted with him; which ought to be the duty of all Parents. And the Lord said, <hi>Take heed to thy self, and keep thy Soul diligently, lest thou forget the things which thine eyes have seen, lest they depart from thy heart all the days of thy life; but teach thy Sons and thy Sons Sons especially in the day that thou stoodst before the Lord thy God in</hi> Horeb; <hi>when the Lord said unto me, (viz.</hi> Moses) <hi>Gather me the people, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their Children.</hi> Here you may see the care
+<pb n="8" facs="tcp:103475:5"/> of the Lord, both to his people, and how they are commanded to teach their Children; yea, their Sons Sons; the Children that are Gods Heritage might be instructed by their Parents the things of God; <hi>Deut.</hi> 4.10.</p>
+            <p>And in the Old Testament the Lord Gord said, <hi>Thou shalt do no manner of work on the Sabbath day, thou nor thy Son, nor thy Daugh<g ref="char:EOLhyphen"/>ter, nor thy Man Servant, nor the Stranger which is within thy Gate;</hi> they were all to rest on the Sabbath day, in the Old Covenant; so were all the Believers, whether they be Masters or Mistresses, Sons, Daughters or Strangers, to rest in Christ in the New Covenant; for he that believeth is entred into Christ the rest, and ceased from his own works; as God did from his. Know therefore this day, and consider in thine heart <hi>(Mark)</hi> in thine heart, <hi>that the Lord he is God in Heaven above, and upon the Earth beneath, there is none else, so with the Spirit of God ye may know him in Heaven, and know him in Earth; and thou shalt keep therefore his Statutes and his Command<g ref="char:EOLhyphen"/>ments, which I command you this day, that it may go well with thee, and thy Children after thee, that thou maist prolong thy days upon the Earth.</hi> Here again you may see what care the Lord takes for his peo<g ref="char:EOLhyphen"/>ple and his Children, <hi>Deut.</hi> 39.40.</p>
+            <p>And you may see in <hi>Nehemiah</hi> 5.5. how they complained of them and their Children, their Sons and Daughters were brought into Bon<g ref="char:EOLhyphen"/>dage <hi>because of going astray from the Lords Commandments:</hi> And in <hi>Nehemiah</hi> 9. how they had <hi>rebelled against the good Spirit of the Lord, that he gave them to instruct them.</hi> And is not this the cause now that <hi>Christians</hi> are in confusion? for rebelling against Gods good Spirit, though they may make an outward Profession of the New Testa<g ref="char:EOLhyphen"/>ment; as the <hi>Jews</hi> did of the Old.</p>
+            <p>Thus saith the Lord in <hi>Isai.</hi> 49. <hi>Behold! I lift up my hand to the</hi> Gentiles, <hi>and set up my Standard to the people:</hi> And is not this Stan<g ref="char:EOLhyphen"/>dard Christ? <hi>And they shall bring their Sons in their Arms, and thy Daughters shall be carried upon their shoulders:</hi> And where do they carry their Children and their Sons and Daughters? Is it not to Christ, who teacheth them and blesseth them? The Lord saith; <hi>I will make all my Mountains a high way, and my high way shall be exalted.</hi> And is not God and Christs high way his <hi>Light?</hi> that is, the path of
+<pb n="9" facs="tcp:103475:5"/> the just, and high way to the perfect day; <hi>And Kings shall be nursing Fathers, and Queens nursing Mothers,</hi> &amp;c. And that will be a happy day when they come to nurse Christs Chickens, Doves, Lambs, Babes and little Children; Then Persecution will cease for not ta<g ref="char:EOLhyphen"/>king <hi>Oaths,</hi> and <hi>swearing,</hi> and for not <hi>paying of Tythes,</hi> and for not <hi>going to the Worship</hi> at <hi>Temples made with hands;</hi> and then Christs Doctrine will be obeyed; who saith <hi>Swear not at all, but let your Yea be Yea, and your Nay Nay,</hi> &amp;c. And then every one that hath re<g ref="char:EOLhyphen"/>ceived freely from Christ will <hi>give it freely,</hi> as he commands; then every one will know their <hi>Bodies are the Temples of the living God;</hi> and then every one will <hi>walk in the Light, Gods high way,</hi> which shall be exalted; <hi>and in it they have fellowship one with another, and the Blood of Christ the Son of God cleanseth you from all sin.</hi>
+            </p>
+            <p>And <hi>Isaiah</hi> 54. <hi>All thy Children shall be taught of the Lord; and great shall be the peace of thy Children that are taught of the Lord: in Righteousness shall they be established, that are taught of the Lord: Thou shalt be far from oppression; thou shalt not fear, and from ter<g ref="char:EOLhyphen"/>ror; for it shall not come nigh thee that art taught of the Lord: Be<g ref="char:EOLhyphen"/>hold, they shall gather, but not by me:</hi> so then it is by the wicked Spi<g ref="char:EOLhyphen"/>rit; whosoever shall gather together against thee shall fall for thy sake, <hi>that are taught of the Lord; no Weapon that is formed against thee shall prosper; and every Tongue that shall rise against thee in Judgment thou shalt condemn,</hi> &amp;c. <hi>This is the Heritage of the Servants of the Lord, and the Righteousness is of me,</hi> saith the Lord. And in 1 <hi>King.</hi> 2.4. <hi>David</hi> saith, <hi>That the Lord may confirm his Word which he spake concerning me; saying, If thy Children take heed to their way to walk before me in Truth with all their hearts and with all their souls, there shall not sail thee</hi> (said he) <hi>a man to sit on the Throne of</hi> Israel: 1 King. 8.25. <hi>so that thy Children take heed to their way, and walk before me, as thou hast walked before me</hi> (to wit, <hi>Da<g ref="char:EOLhyphen"/>vid.</hi>)</p>
+            <p>Now here you may see that not walking in the Truth before the Lord with all their souls, and their Hearts, made such confusion a<g ref="char:EOLhyphen"/>mong the <hi>Jews,</hi> and likewise makes, or hath made such confusion among the <hi>Christians,</hi> for not walking before God in the Truth, kept them off the Throne of <hi>Israel;</hi> and therefore Children are
+<pb n="10" facs="tcp:103475:6"/> to succeed their Fathers path in the Truth, if they will be accepted and exalted by the Lord, and if they do enjoy the Comfort of the Lord as their Fathers did with the Promise; as 1 <hi>King.</hi> 2.4. &amp; 8.25.</p>
+            <p>In <hi>Micah</hi> 2. he declareth against their Oppression, and reproves the <hi>Jews</hi> for their Injustice and Idolatry; and saith, <hi>The Women of my people have you cast out from their Houses, from the Children have ye taken away my Glory</hi> (to wit) the Lords; for Children are the Lords Heritage, and he hath a Glory in them.</p>
+            <p>And <hi>Joel</hi> declareth sundry Judgments of God, and exhorts the <hi>Jews</hi> to observe them, and bids the Old men <hi>tell their Children of it; and let your Children tell their Children, and let their Children tell another Generation:</hi> See what care was here, and watches set up, that Childrens Children might escape the Judgments of God by their walking in the Truth, and keeping to the Lord with all their hearts; and Children which were the Lords Heritage were to warn and tell one another to walk in the fear and way of the Lord with their whole hearts, that he may have his Glory in them, and their Chil<g ref="char:EOLhyphen"/>dren, which are his Heritage.</p>
+            <p>An you may see in <hi>Luke</hi> 19.43, 44. the Judgments that Christ pronounceth upon the <hi>Jews</hi> and their Children, that disobeyed God, and did not believe in him; and Christ saith, <hi>While ye have the Light believe in the Light, that ye may become Children of the Light:</hi> Here Christ encourages his Believers with a new Name that believe in the Light (to wit) <hi>Children of the Light,</hi> Joh. 12.36. And <hi>Paul</hi> saith to the Believers in the Light; <hi>Ye were sometimes in Darkness</hi> (that was when they did not believe in the Light) <hi>but now are ye Light in the Lord, walk as Children of the Light,</hi> Ephes. 5.8. <hi>Ye are all the Children of the Light, and the Children of the Day; we are not of the Night, nor of Darkness,</hi> 1 Thes. 5.5. These are the Believers in the Light, as Christ commands.</p>
+            <p>And <hi>John</hi> saith, <hi>My little Children</hi> (1 Joh. 2.2.) <hi>these things I write unto you that you sin not.</hi> &amp;c. <hi>and if any man sins, we have an Advocate with the Father, Jesus Christ the righteous,</hi> &amp;c. [but they must take heed of sinning wilfully] <hi>I write to you little Children, be<g ref="char:EOLhyphen"/>cause your Sins are forgiven you for his Name sake</hi> [here is a comfort to Christs little Children.] Again, <hi>John</hi> saith to little Children, <hi>It is
+<pb n="11" facs="tcp:103475:6"/> the last time; and as ye have that Antichrist should come, even now are many Antichrists, whereby we know that it is the last time; they went out from us</hi> (to wit, the <hi>Antichrists) but they were not of us</hi> (to wit, the elect members of the Church of Christ) <hi>for if they had been of us they would no doubt have continued with us; but they went out from us that they might be made manifest that they were not all of us. And these things I have written unto you concerning them that seduce you; but the Anointing which ye have received of him abideth in you, and you need not that any man teach you, but as the same Anointing teacheth you all things, and is Truth, and is no Lye; and even as it hath taught you, ye shall abide in him: And now, little Children, abide in him</hi> (to wit, Christ, &amp;c.) <hi>Whosoever abideth in him sinneth not; whosoever sinneth hath not seen him, neither known him: Little Chil<g ref="char:EOLhyphen"/>dren, let no man deceive you, he that doth Righteousness is righteous even as he is righteous; He that committeth sin is of the Devil; for the De<g ref="char:EOLhyphen"/>vil sinned from the beginning; for this purpose the Son of God was made manifest, that he might destroy the works of the Devil. Whosoever is born of God, doth not commit sin, for his seed remains in him, and he cannot sin because he is born of God;</hi> In this the Children of God are manifest from the Children of the Devil, which is a clear ma<g ref="char:EOLhyphen"/>nifestation and distinction.</p>
+            <p>Again, <hi>John</hi> saith, <hi>My little Children, let us not love in Word, nei<g ref="char:EOLhyphen"/>ther in Tongue, but in Deed and in Truth, hereby we know that we are of the Truth, and shall assure our hearts before him: This is a good Tryal, little Children,</hi> 1 Joh. 3. <hi>Ye are of God, little Children, and ye have overcome them</hi> (to wit, Antichrist, and the World and its God) <hi>because greater is he that is in you, than he that's in the World;</hi> (a good reason to little Children, the greater to overcome the lesser) <hi>and every one that loveth him,</hi> (to wit, God that begot him) <hi>loveth him also that is begotten of him; by this we know that we love the Children of God, when we love God and keep his Commandments; this is a good tryal and a manifestation,</hi> 1. Joh. 5.</p>
+            <p>And <hi>Paul</hi> saith to the <hi>Galatians</hi> in chap. 4. <hi>My little Children, of whom I travel in birth again, until Christ be formed in you:</hi> This is a good Travel, which should be every true Christians, and not to travel to persecute Christ, where he is formed within his people; for that is
+<pb n="12" facs="tcp:103475:7"/> a bad Travel. And <hi>John</hi> writes to the elect Lady and her Children, whom he loved in the Truth, <hi>&amp;c.</hi> and said, <hi>I rejoyced greatly that I found thy Children walking in the Truth,</hi> &amp;c. <hi>this is cause of great Joy to see Gods Children walk in the Truth.</hi> Again, he writes; Gaius, <hi>whom I love in the Truth</hi> (said he) <hi>I have no greater Joy than to hear that thy Children walk in the Truth,</hi> 3 Epist. of <hi>John.</hi> Now this is a concern for all <hi>true Christians,</hi> that they and their Children walk in the truth, that they may have the joy and comfort of them in the Lord and his Truth in this world and in the world to come. <hi>And every one that names the name of Jesus let them depart from iniquity,</hi> and not live in Iniquity, and to see that their Children do depart from Ini<g ref="char:EOLhyphen"/>quity; for <hi>David</hi> saith, <hi>The Lord hates all workers of Iniquity;</hi> and saith. <hi>Depart from me all ye workers of Iniquity;</hi> and therefore train up all your Children in the nurture and fear of the Lord, that both you &amp; they may all serve God in his Spirit, in your Creation &amp; Ge<g ref="char:EOLhyphen"/>neration; for Children are the <hi>Heritage of the Lord,</hi> and ought to be trained up in his Fear, and serve and worship him in his Spirit and Truth; for it is the Lord that gives the increase of them all; it is he that brings to the Birth, and gives power to bring forth, whether it be <hi>Natural</hi> or <hi>Spiritual,</hi> and the Life and Breath, and the Souls of all is in his hand and power.</p>
+            <p>
+               <hi>I was by him as one brought up with him, I was daily his delight, re<g ref="char:EOLhyphen"/>joycing always before him, rejoycing in the habitable parts of the Earth; and my delights are with the Sons of men: Now therefore hearken unto me, O ye Children; for blessed are they which keep my Ways, hear In<g ref="char:EOLhyphen"/>struction, be wise, and refuse it not,</hi> Prov. 8. Here you may see the Eternity of Wisdom, which is to be desired for the Blessing it brings.</p>
+            <p>The Apostle <hi>Paul</hi> tells the <hi>Corinthians, That I have espoused you to one Husband, that I may present you as a chaste Virgin to Christ</hi> 2 Cor. 11.2.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:103475:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
